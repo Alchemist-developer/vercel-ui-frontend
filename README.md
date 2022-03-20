@@ -7,6 +7,8 @@ UI Clone - Vercel (Homepage)
 
 <hr>
 
+![image](https://user-images.githubusercontent.com/88943961/159157619-3999b24b-1be8-4dc0-b769-ce938474c1b8.png)
+
 
 ## Resources
 
