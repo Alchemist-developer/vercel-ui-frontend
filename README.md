@@ -2,7 +2,7 @@
 UI Clone - Vercel (Homepage)
 </h1>
 
-<p align="center"><a href="https://alchemist-developer.github.io/vercel-ui-frontend/">Vercel Homepage</a> UI clone for study purposes.</p>
+<p align="center"><a href="https://alchemist-developer.github.io/vercel-ui-frontend/">Vercel Homepage UI clone</a> for study purposes.</p>
 <p align="center">Click <a href="https://www.linkedin.com/in/adryelsimon/">here</a></p>
 
 <hr>
